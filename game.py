@@ -1,4 +1,4 @@
-from player import RandomComputerPlayer, GeniusComputerPlayer
+from player import RandomComputerPlayer, GeniusComputerPlayer, HumanPlayer
 import time
 
 
