@@ -1,5 +1,4 @@
 import time
-import math
 from player import HumanPlayer, RandomComputerPlayer, GeniusComputerPlayer
 
 
